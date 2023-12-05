@@ -1,8 +1,6 @@
 # Stock Price Prediction - Tesla 📈🤖
 Welcome to my groundbreaking initiative – a Machine Learning-driven Stock Price Prediction system tailored for Tesla!
 
-![Stock-Price-Final-Output](Tesla.png)
-
 ### Overview
 Ever wondered about the precision of predicting stock prices? Wonder no more! This project leverages cutting-edge Machine Learning algorithms to meticulously analyze Tesla's historical stock data, market trends, and pertinent financial indicators, providing insights into future stock prices.
 
